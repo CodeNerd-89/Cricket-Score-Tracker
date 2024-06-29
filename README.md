@@ -52,13 +52,9 @@ Press Enter to continue...
 
 Feel free to fork this repository, submit issues, and send pull requests. Contributions to improve the code, add features, or enhance the user experience are welcome!
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ---
 
 Happy coding and enjoy tracking your cricket scores with ease!
 ```
 
-This `README.md` provides an overview of your project, instructions on how to compile and run the program, an example usage, and information about contributing and the license. You can place this file in the root directory of your project repository on GitHub.
+This `README.md` provides an overview of your project, instructions on how to compile and run the program, an example usage, and information about contributing. You can place this file in the root directory of your project repository on GitHub.

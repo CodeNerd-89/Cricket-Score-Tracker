@@ -1,6 +1,5 @@
 
-
-Sure! Here is a `README.md` file for your Cricket Score Tracker project:
+ Cricket Score Tracker project:
 
 ```markdown
 # Cricket Score Tracker
